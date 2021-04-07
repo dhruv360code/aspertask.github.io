@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:  Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: black;
+}
+.grey{
+    color: #7b7c7e;
+}
+.cloud{
+    color:#f5f6fa;
+
+}
+.header{
+    background-color:black;
+}
+.logo{
+    margin-left: 30px;
+}
+.logo img{
+    margin:3px 0 0 0 ;
+    
+    height:50px;
+    width:50px;
+    /* height:9vh;
+    width:5vw; */
+}
+.menu{
+    margin-top: -35px;
+    float: right;
+    margin-right: 30px;
+  
+}
+.menu ul{
+    list-style: none;
+}
+    
+ .menu li{margin-right: 20px;
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+    color: #ecf0f1;
+    font: 200;
+}
+    a:hover{
+    
+        border-bottom: 3px  solid #e74c3c;
+    
+}
+.intro{
+    height: 30vh;
+    background-color:#202020;
+    padding-top: 12vh;
+    border-top:  inset 1px rgb(209, 207, 203);
+}
+.name{
+  
+    text-align: center;
+}
+.main{
+    
+    background-color:black;
+}
+
+.section{
+margin:8vh 30px 0 30px;
+
+}
+.top-part{
+    padding-left: 10px;
+    border-left: 4px  solid #e74c3c ;
+}
+.text{
+    margin: 10px 30px 0px 30px ;
+
+    
+}
+.skills{
+    margin: 0 0 0 32px;
+}
+.content{
+    margin-top: 10px;
+}
+.footer{
+    padding-top: 4vh;
+    height: 9vh;
+     color: #ecf0f1;
+    text-align: center;
+    border-top:  inset 1px rgb(209, 207, 203);
+    background-color:#202020;
+}
+ .skills a:hover{
+     color:#e74c3c ;
+     
+    }
+    .links li{
+        
+    font-size:30px;
+    margin: 3px 0 3px 0;
+}
+ .links{
+    list-style: none;
+}
